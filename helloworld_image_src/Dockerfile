@@ -1,4 +1,4 @@
-RUN gcc:latest
+FROM gcc:latest
 
 COPY . usr/src/cpp_test
 
